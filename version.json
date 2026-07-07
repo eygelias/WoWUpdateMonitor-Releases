@@ -1,0 +1,9 @@
+{
+  "versionCode": 3,
+  "versionName": "v3.0.0",
+  "appName": "WoWUpdateMonitor",
+  "apkName": "WoWUpdateMonitor v3.0.0.apk",
+  "apkUrl": "https://github.com/eygelias/WoWUpdateMonitor-Releases/releases/download/v3.0.0/WoWUpdateMonitor-v3.0.0.apk",
+  "required": true,
+  "message": "Actualización obligatoria disponible"
+}
